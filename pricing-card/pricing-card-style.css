@@ -1,0 +1,132 @@
+.heading-section {
+    padding-top: 80px;
+    padding-bottom: 65px;
+}
+p.upper-heading {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #808080;
+    line-height: 32px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+.main-heading >h2 {
+    font-size: 50px;
+    line-height: 40px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    color: white;
+    font-weight: 500;
+}
+.main-heading >h5 {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.single-card {
+    padding: 40px 30px;
+    padding-bottom: 60px;
+    background-color: white;
+    box-shadow: 3px 3px 4px rgb(0 0 0 / 15%);
+    margin-bottom: 65px;
+}
+h5.save-first {
+    padding: 5px 101px;
+    background-color: #ffecee;
+    color: #fc4557;
+    border-radius: 8px;
+}
+h1.price {
+    color: #4582ff;
+    font-size: 60px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+}
+.price-section>span {
+    color: #fc4557;
+    background: #ffecee;
+    padding: 5px 13px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+ul.ul-list {
+    text-align: center;
+    padding: 0;
+}
+.ul-list>li {
+    list-style: none;
+    font-size: 18px;
+    color: #808080;
+    line-height: 42px;
+    font-family: 'Poppins', sans-serif;
+}
+.price-section {
+    text-align: center;
+    margin-bottom: 26px;
+}
+.button-section {
+    display: inline-block;
+    margin-top: 0px;
+}
+a.default-btn {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #4582ff;
+    color: white;
+    padding: 16px 40px;
+    font-size: 14px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid #4582ff;
+}
+.ul-list>li>span {
+    color: #4582ff;
+    font-weight: 500;
+}
+i.icon {
+    margin-right: 4px;
+}
+.first-ul {
+    margin-bottom: 35px;
+}
+a.default-btn:hover {
+    background-color: #fff !important;
+}
+h1.price.two {
+    color: #fea116;
+}
+a.default-btn.two {
+    background-color: #fea116;
+    border: 2px solid #fea116;
+}
+a.default-btn.two:hover {
+    color: #fea116;
+}
+span.new {
+    color: white !important;
+    background-color: #fc4557;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 3px 8px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+span.two {
+    color: #fea116 !important;
+}
+h1.price.three {
+    color: #1cb5a3 !important;
+}
+
+span.three {
+    color: #1cb5a3 !important;
+}
+
+a.default-btn.three {
+    background-color: #1cb5a3;
+    border: 2px solid #1cb5a3;
+}
+a.default-btn.three:hover {
+    color: #1cb5a3;
+}
